@@ -6,7 +6,7 @@ understand what’s the actual location, what courses are offered and placements
 university. To make things easy and provide a solution, I thought and designed a University
 Selection System using SQL.
 
-The system project showcases how structured data storage and Sql queries can be used to:
+### The system project showcases how structured data storage and Sql queries can be used to:
 
 i. Find the suitable university from the available options.
 
@@ -14,7 +14,7 @@ ii. Track educational performance of different countries.
 
 iii. Calculate the ROI (Return on Investment) for students.
 
-The system consist of multiple tables:
+### The system consist of multiple tables:
 
 A. University: The name and establishment year of Universities.
 
